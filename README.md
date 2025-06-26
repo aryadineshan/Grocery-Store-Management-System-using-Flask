@@ -31,3 +31,7 @@ A web application for managing grocery store operations, including inventory, bi
 
 ```python
 query = "CREATE DATABASE IF NOT EXISTS testgrocerystore"
+
+### Note:
+Replace `your_host`, `your_user`, `your_password`, and `your_database` in `app.py` with your actual MySQL credentials before running.
+
